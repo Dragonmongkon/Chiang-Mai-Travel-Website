@@ -9,3 +9,7 @@
 [![image.png](https://i.postimg.cc/sxTj7hsc/image.png)](https://postimg.cc/Zvyzh09B)
 
 [![image.png](https://i.postimg.cc/DzRBfjGQ/image.png)](https://postimg.cc/mcNQ8S8h)
+
+
+> [!WARNING]
+> ตัว ไฟล์นั้นยังเป็น zip ต้องแตกไฟล์ก่อนถึงจะกด index และขึ้นได้
